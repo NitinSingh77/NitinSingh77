@@ -1,3 +1,5 @@
+![logo](https://github.com/NitinSingh77/NitinSingh77/blob/main/Nitin%20Singh%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Nitin Singh</h1>
 <h3 align="center">A passionate Full-stack engineer from India.</h3>
 
